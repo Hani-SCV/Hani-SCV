@@ -2,24 +2,25 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=160&text=GitHani&fontColor=f4d5fd&fontSize=56" />
 </div>
 
-<h1 align="center">웹 백엔드 개발자</h1>
+<h3 align="center">반갑습니다 백엔드 개발자 김하니입니다.</h3>
+
 
 ## Tech Stack
 
 <table width="100%">
 <tr>
-<td align="center" width="33%">
-
-**Backend**
-
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-
-</td>
+  <td align="center" width="33%">
+  
+  **Backend**
+  
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  
+  </td>
 
 <td align="center" width="34%">
 
