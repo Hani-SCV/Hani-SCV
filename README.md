@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=160&text=GitHani&fontColor=f4d5fd&fontSize=56" />
-</div>
-
-<h3 align="center">반갑습니다 백엔드 개발자 김하니입니다.</h3>
+<h3 align="center">반갑습니다 개발자 김하니입니다.</h3>
 
 
 ## Tech Stack
