@@ -1,6 +1,3 @@
-<h3 align="center">반갑습니다 개발자 김하니입니다.</h3>
-
-
 ## Tech Stack
 
 <table width="100%">
@@ -42,13 +39,4 @@
 </td>
 </tr>
 </table>
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hani-scv&theme=radical&ring=4bff21&fire=f8e602&currStreakLabel=00f0ff"/>
-</div>
 
